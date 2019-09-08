@@ -4,6 +4,8 @@
 
 ![](render.png)
 
+![](screenshot.png)
+
 1. Add Blender to `%PATH%` and run `pip install bpy`
 2. Open the repository in VS Code
 3. Open `script.py` and `render.png` in split view side by side

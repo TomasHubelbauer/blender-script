@@ -19,8 +19,8 @@
 
 ## To-Do
 
-Figure out how to get autocompletion for `bpy`.
+### Figure out how to get autocompletion for `bpy`.
 
-Set up a GitHub Actions workflow which installs Blender and runs
-`blender --python script.py` on every push and pushes `render.png`
-to the repository.
+### Set up a GitHub Actions workflow which installs Blender and runs the script
+
+`blender --python script.py` on every push and push `render.png` to the repository.

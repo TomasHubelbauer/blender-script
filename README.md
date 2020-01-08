@@ -19,7 +19,9 @@
 
 ## To-Do
 
-### Figure out how to get autocompletion for `bpy`.
+### Figure out how to get autocompletion for `bpy`
+
+https://github.com/TomasHubelbauer/blender-python-intellisense
 
 ### Set up a GitHub Actions workflow which installs Blender and runs the script
 

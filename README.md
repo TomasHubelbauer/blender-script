@@ -1,7 +1,5 @@
 # Blender Script
 
-[**LIVE**](https://tomashubelbauer.github.io/blender-script)
-
 ![](render.png)
 
 ![](screenshot.png)
